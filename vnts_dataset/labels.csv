@@ -1,0 +1,245 @@
+id;name;description
+EMPTY;Không có biển báo giao thông;
+P.101;Đường cấm;
+P.102;Cấm đi ngược chiều;
+P.103a;Cấm ô tô;
+P.103b;Cấm ô tô rẽ phải;
+P.103c;Cấm ô tô rẽ trái;
+P.104;Cấm mô tô;
+P.105;Cấm ô tô và mô tô;
+P.106a;Cấm ô tô tải;
+P.106b;Cấm ô tô tải;Có tổng trọng tải vượt quá con số quy định trên bảng
+P.106c;Cấm xe chở hàng nguy hiểm;
+P.107;Cấm xe ô tô khách và xe ô tô tải;
+P.107a;Cấm xe ô tô khách;
+P.107b;Cấm xe ô tô taxi;
+P.108;Cấm xe kéo rơ-moóc;
+P.108a; Cấm xe sơ-mi rơ-moóc;
+P.109;Cấm máy kéo;
+P.110a;Cấm xe đạp;
+P.110b;Cấm xe đạp thồ;
+P.111a;Cấm xe gắn máy;
+P.111b;Cấm xe ba bánh loại có động cơ;Xe lam, xích lô máy
+P.111c;Cấm xe ba bánh loại có động cơ;Xe lôi máy
+P.111d;Cấm xe ba bánh loại không có động cơ;
+P.112;Cấm người đi bộ;
+P.113;Cấm xe người kéo đẩy;
+P.114;Cấm xe súc vật kéo;
+P.115;Hạn chế tọng lượng xe;
+P.116;Hạn chế trọng lượng trên trục xe;
+P.117;Hạn chế chiều cao;
+P.118;Hạn chế chiều ngang;
+P.119;Hạn chế chiều dài ô tô;
+P.120;Hạn chế chiều dài ô tô, máy kéo kéo moóc hoặc sơ mi rơ moóc;
+P.121;Cự ly tối thiểu giữa hai xe;
+P.122;Dừng lại; Chú ý quan sát
+P.123a;Cấm rẽ trái;
+P.123b;Cấm rẽ phải;
+P.124a;Cấm quay xe;
+P.124b;Cấm ô tô quay đầu xe;
+P.124c;Cấm rẽ trái và quay đầu xe;
+P.124d;Cấm rẽ pahir và quay đầu xe;
+P.124e;Cấm ô tô rẽ trái và quay đầu xe;
+P.124f;Cấm ô tô rẽ phải và quay đầu xe;
+P.125;Cấm vượt;
+P.126;Cấm ô tô tải vượt;
+P.127;Tốc độ tối đa cho phép;
+P.127a;Tốc độ tối đa cho phép về ban đêm;
+P.127b;Biển ghép tốc độ tối đa cho phép trên từng làn đường;
+P.127c;Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường;
+DP.127;Biển hết tốc độ tối đa cho phép theo biển ghép;
+P.128;Cấm sử dụng còi;
+P.129;Kiểm tra;
+P.130;Cấm dừng xe và đỗ xe;
+P.131a;Cấm đỗ xe;
+P.131b;Cấm đỗ xe;Ngày lẻ
+P.131c;Cấm đỗ xe;Ngày chẵn
+P.132;Nhường đường cho xe cơ giới qua đường hẹp;
+DP.133;Hết cấm vượt xe;
+DP.134;Hết hạn chế tốc độ tối đa;
+DP.135;Hết tất cả lệnh cấm;
+P.136;Cấm đi thẳng;
+P.137;Cấm rẽ trái và rẽ phải;
+P.138;Cấm đi thẳng và rẽ trái;
+P.139;Cấm đi thẳng rẽ phải;
+P.140;Cấm xe công nông;
+W.201a;Chỗ ngoặc nguy hiểm vòng bên trái;
+W.201b;Chỗ ngoặc nguy hiểm vòng bên phải;
+W.202a;Nhiều chỗ ngoặc nguy hiểm liên tiếp;Chỗ ngoặc đầu tiên hướng vòng bên trái
+W.202b;Nhiều chỗ ngoặc nguy hiểm liên tiếp;Chỗ ngoặc đầu tiên hướng vòng bên phải
+W.203a;Đường hẹp về cả hai bên;
+W.203b;Đường hẹp về phía bên trái;
+W.203c;Đường hẹp về phía bên phải;
+W.204;Đường hai chiều;
+W.205a;Đường giao nhau cùng cấp;Ngã tư
+W.205b;Đường giao nhau cùng cấp;Ngã ba bên phải
+W.205c;Đường giao nhau cùng cấp;Ngã ba bên trái
+W.205d;Đường giao nhau cùng cấp;Ngã ba cắt ngang
+W.205e;Đường giao nhau cùng cấp;Ngã ba chữ Y
+W.206;Giao nhau chạy theo vòng xuyến;
+W.207a;Giao nhau với đường không ưu tiên;
+W.207b;Giao nhau với đường không ưu tiên;
+W.207c;Giao nhau với đường không ưu tiên;
+w.207d;Giao nhau với đường không ưu tiên;
+W.207e;Giao nhau với đường không ưu tiên;
+W.207f;Giao nhau với đường không ưu tiên;
+W.207g;Giao nhau với đường không ưu tiên;
+W.207h;Giao nhau với đường không ưu tiên;
+W.207i;Giao nhau với đường không ưu tiên;
+W.207k;Giao nhau với đường không ưu tiên;
+W.208;Giao nhau với đường ưu tiên;
+W.209;Giao nhau có tín hiệu đèn;
+W.210;Giao nhau với đường sắt có rào chắn;
+W.211a;Giao nhau với đường sắt không rào chắn;
+W.211b;Giao nhau với đường tàu điện;
+W.212;Cầu hẹp;
+W.213;Cầu tạm;
+W.214;Cầu quay - cầu cắt;
+W.215;Kè, vực sâu phía trước;
+W.216;Đường ngầm;
+W.217;Bến phà;
+W.218;Cửa chui;
+W.219;Dốc xuống nguy hiểm;
+W.220;Dốc lên nguy hiểm;
+W.221a;Đường có ổ gà, lồi lõm;
+W.221b;Đường có sóng mấp mô nhân tạo;
+W.222a;Đường trơn;
+W.222b;Lề đường nguy hiểm;
+W.223a;Vách núi nguy hiểm;Vách núi nằm bên trái
+W.223b;Vách núi nguy hiểm;Vách núi nằm bên phải
+W.224;Đường người đi bộ cắt ngang;
+W.225;Trẻ em;
+W.226;Đường người đi xe đạp cắt ngang;
+W.227;Công trường;
+W.228a;Đá lở;Bên trái
+W.228b;Đá lở;Bên phải
+W.228c;Sỏi đá bắn lên;
+W.229;Giải máy bay lên xuống;
+W.230;Gia súc;
+W.231;Thú rừng vượt qua đường;
+W.232;Gió ngang;
+W.233;Nguy hiểm khác;
+W.234;Giao nhau với đưuòng hai chiều;
+W.235;Đường đôi;
+W.236;Hết đường đôi;
+W.237;Cầu vồng;
+W.238;Đường cao tốc phía trước;
+W.239;Đường cáp điện phía trên;
+W.240;Đường hầm;
+W.241;Ùn tắc giao thông;
+W.242a;Nơi đường sắt giao vuông góc với đường bộ;Chỉ có một đường cắt ngang đường bộ
+W.242b;Nơi đường sắt giao vuông góc với đường bộ;Hơn 1 đường cắt ngang đường bộ
+W.243a;Nơi đường sắt giao không vuông góc với đường bộ;Cách 50m
+W.243b;Nơi đường sắt giao không vuông góc với đường bộ;Cách 100m
+W.243c;Nơi đường sắt giao không vuông góc với đường bộ;Cách 150m
+W244;Đoạn đường hay xảy ra tai nạn;
+W.245a;Đi chậm;
+W.245b;Đi chậm;Tuyến đường đối ngoại
+W.246a;Chú ý chướng ngại vật;Vòng tránh hai bên
+W.246b;Chú ý chướng ngại vật;Vòng tránh sang bên trái
+W.246c;Chú ý chướng ngại vật;Vòng tránh sang bên phải
+W.247;Chú ý xe đỗ;
+R.301a;Đi thẳng;
+R.301b;Chỉ được rẽ phải;
+R.301c;Chỉ được rẽ trái;
+R.301d;Rẽ phải;
+R.301e;Rẽ trái;
+R.301f;Chỉ được đi thẳng và rẽ phải;
+R.301h;Chỉ được đi thẳng và rẽ trái;
+R.301i;Chỉ được rẽ phải và rẽ trái;
+R.302a;Hướng phải đi vòng chướng ngại vật;Vòng sang phải
+R.302b;Hướng phải đi vòng chướng ngại vật;Vòng sang trái
+R.303;Nơi giao nhau chạy theo vòng xuyến;
+R.304;Đường dành cho xe thô sơ;
+R.305;Đường dành cho người đi bộ;
+R.306;Tốc độ tối thiểu cho phép;
+R.307;Hết hạn chế tốc độ tối thiểu;
+R.308a;Tuyến đường cầu vượt cắt qua;Đi thẳng hoặc rẽ trái
+R.308b;Tuyến đường cầu vượt cắt qua;Đi thẳng hoặc rẽ phải
+R.309;Ấn còi;
+R.310a;Hướng đi phải theo cho các xe chở hàng nguy hiểm;Rẽ trái
+R.310b;Hướng đi phải theo cho các xe chở hàng nguy hiểm;Đi thẳng
+R.310c;Hướng đi phải theo cho các xe chở hàng nguy hiểm;Rẽ phải
+I.401;Bắt đầu đường ưu tiên;
+I.402;Hết đoạn đường ưu tiên;
+I.403a;Đường dành cho ô tô;
+I.403b;Đường dành cho ô tô, xe máy;
+I.404a;Hết đường dành cho ô tô;
+I.404b;Hết đường dành cho ô tô, xe máy;
+I.405a;Đường cụt;Bên trái
+I.405b;Đường cụt;Bên phải
+I.405c;Đường cụt;Phía trước
+I.406;Được ưu tiên qua đường hẹp;
+I.407a;Đường một chiều;Đi thẳng
+I.407b;Đường một chiều;Rẽ phải
+I.407c;Đường một chiều;Rẽ trái
+I.408;Nơi đỗ xe;
+I.409;Chỗ quay xe;
+I.410;Khu vực quay xe;
+I.411;Hướng đi trên mỗi làn đường theo vạch kẻ đường;
+I.412a;Làn đường dành cho ô tô khách;
+I.412b;Làn đường dành cho ô tô con;
+I.412c;Làn đường dành cho ô tô tải;
+I.412d;Làn đường dành cho xe mô tô;
+I.413a;Đường có làn đường dành cho ô tô khách;
+I.413b;Rẽ ra đường có làn đường dành cho ô tô khách;
+I.414;Chỉ hướng đường;
+I.415;Mũi tên chỉ hướng đi;
+I.416;Lối đi đường vòng tránh;
+I.417;Chỉ hướng đường phải đi cho từng loại xe;
+I.418;Lối đi ở những vị trí cấm rẽ;
+I.419;Chỉ dẫn địa giới;
+I.420;Bắt đầu khu đông dân cư;
+I.421;Hết khu đông dân cư;
+I.422;Di tích lịch sử;
+I.423a;Đường người đi bộ sang ngang;Bên trái
+I.423b;Đường người đi bộ sang ngang;Bên phải
+I.424a;Cầu vượt qua đường cho người đi bộ;Bên trái
+I.424b;Cầu vượt qua đường cho người đi bộ;Bên phải
+I.424c;Hầm chui qua đường cho người đi bộ;Bên trái
+I.424d;Hầm chui qua đường cho người đi bộ;Bên phải
+I.425;Bệnh viện;
+I.426;Trạm cấp cứu;
+I.427a;Trạm sửa chữa;
+I.427b;Trạm kiểm tra tải trọng xe;
+I.428;Trạm cung cấp xăng dầu;
+I.429;Nơi rửa xe;
+I.430;Điện thoại;
+I.431;Trạm dừng nghỉ;
+I.432;Khách sạn;
+I.433;Nơi nghỉ mát;
+I.434a;Bến xe buýt;
+I.435;Bến xe điện;
+I.436;Trạm cảnh sát giao thông;
+I.437;Đường cao tốc;
+I.438;Hết đường cao tốc;
+I.439;Tên cầu;
+I.440;Đoạn đường thi công;
+I.441a;Báo hiệu phía trước có công trường thi công;Cách 500m
+I.441b;Báo hiệu phía trước có công trường thi công;Cách 100m
+I.441c;Báo hiệu phía trước có công trường thi công;Cách 50m
+I.442;Chợ;
+I.443;Xe kéo moóc;
+I.444a;Biển báo chỉ dẫn địa điểm;Ga xe lửa
+I.444b;Biển báo chỉ dẫn địa điểm;Sân bay
+I.444c;Biển báo chỉ dẫn địa điểm;Bãi đỗ xe
+I.444d;Biển báo chỉ dẫn địa điểm;Bến xe khách
+I.444e;Biển báo chỉ dẫn địa điểm;Trạm cấp cứu
+I.444f;Biển báo chỉ dẫn địa điểm;Bến tàu khách
+I.444g;Biển báo chỉ dẫn địa điểm;Chùa hương
+I.444h;Biển báo chỉ dẫn địa điểm;Trạm xăng dầu
+I.444i;Biển báo chỉ dẫn địa điểm;Rửa xe
+I.444j;Biển báo chỉ dẫn địa điểm;Bến phà
+I.444k;Biển báo chỉ dẫn địa điểm;Ga tàu điện ngầm
+I.444l;Biển báo chỉ dẫn địa điểm;Nhà hàng ăn uống
+I.444m;Biển báo chỉ dẫn địa điểm;Trạm sửa chữa ô tô
+I.445a;Biển báo mô tả tình trạng đường;Đường trơn, chạy chậm
+I.445b;Biển báo mô tả tình trạng đường;Đường dốc, chạy chậm
+I.445c;Biển báo mô tả tình trạng đường;Đường nhiều sương mù
+I.445d;Biển báo mô tả tình trạng đường;Nền đường yếu
+I.445e;Biển báo mô tả tình trạng đường;Xe lớn đi sát về bên phải
+I.445f;Biển báo mô tả tình trạng đường;Chú ý gió ngang
+I.445g;Biển báo mô tả tình trạng đường;Đoạn đường hay xảy ra tai nạn
+I.445h;Biển báo mô tả tình trạng đường;Xuống dốc liên tục
+I.446;Biển báo chỉ dẫn nơi đỗ xe dành cho người khuyết tật
+I.447;Biển báo cầu vượt liên thông
