@@ -38,10 +38,6 @@ for i, path in enumerate(video):
                 n += 1
                 cv2.imwrite(filename=file_path, img=roi)
 
-                # cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
-                # font = cv2.FONT_HERSHEY_SIMPLEX
-                # cv2.putText(frame, 'Traffic sign', (x1, y1 - 10), font, 0.8, (0, 255, 0), 2, cv2.LINE_AA)
-
         cv2.imshow('Video', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
