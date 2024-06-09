@@ -25,8 +25,7 @@ I.417;Chỉ hướng đường phải đi cho từng loại xe
 I.418;Lối đi ở những vị trí cấm rẽ
 I.419;Chỉ dẫn địa giới
 I.422;Di tích lịch sử
-I.423a;Đường người đi bộ sang ngang, bên trái
-I.423b;Đường người đi bộ sang ngang, bên phải
+I.423;Đường người đi bộ sang ngang
 I.424a;Cầu vượt qua đường cho người đi bộ, bên trái
 I.424b;Cầu vượt qua đường cho người đi bộ, bên phải
 I.424c;Hầm chui qua đường cho người đi bộ, bên trái
@@ -196,15 +195,15 @@ S.503c;Hướng tác dụng của biển
 S.503d;Hướng tác dụng của biển
 S.503e;Hướng tác dụng của biển
 S.503f;Hướng tác dụng của biển
-S.504;Làn đường
+S.504;Phương tiện có tác dụng
 S.506a;Hướng đường ưu tiên
 S.506b;Hướng đường ưu tiên
 S.508a;Biển cấm theo giờ
 S.508b;Biển cấm theo giờ
 W.201a;Chỗ ngoặc nguy hiểm bên trái
 W.201b;Chỗ ngoặc nguy hiểm bên phải
-W.201c; Chỗ ngoặc nguy hiểm cso nguy cơ lật bên phải
-W.201d; Chỗ ngoặc nguy hiểm cso nguy cơ lật bên trái
+W.201c;Chỗ ngoặc nguy hiểm cso nguy cơ lật bên phải
+W.201d;Chỗ ngoặc nguy hiểm cso nguy cơ lật bên trái
 W.202a;Nhiều chỗ ngoặc nguy hiểm liên tiếp chỗ ngoặc đầu tiên hướng vòng bên trái
 W.202b;Nhiều chỗ ngoặc nguy hiểm liên tiếp chỗ ngoặc đầu tiên hướng vòng bên phải
 W.203a;Đường bị hẹp về cả hai bên
