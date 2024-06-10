@@ -2,21 +2,23 @@
 
 import cv2
 import numpy as np
+import os
 from ultralytics import YOLO
 
 save = False
 stream = True
 conf_threshold = 0.2
 target_size = (256, 256)
+base_path = 'vnts_dataset/datasets/data_video'
 
-video = ['vnts_dataset/datasets/data_video/0525.mp4', 'vnts_dataset/datasets/data_video/0525(1).mp4']
+video = os.listdir(base_path)
 
 yolo = YOLO('weights/yolov8_trafficsign.pt')
 
-target_path = 'vnts_dataset/datasets/data_raw/img/vd'
+target_path = 'vnts_dataset/datasets/data_raw/img/vd1'
 
 for i, path in enumerate(video):
-    cap = cv2.VideoCapture(path)
+    cap = cv2.VideoCapture(base_path+'/'+path)
     n = 0
     while True:
         ret, frame = cap.read()
@@ -29,7 +31,7 @@ for i, path in enumerate(video):
 
         for detect in detections:
             for bbox in detect.boxes.xyxy:
-                x1, y1, x2, y2 = np.array(bbox, dtype=int)
+                x1, y1, x2, y2 = int(bbox[0]), int(bbox[1]), int(bbox[2]), int(bbox[3])
                 
                 roi = frame[y1:y2, x1:x2]
                 roi = cv2.resize(roi, target_size)
