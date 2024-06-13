@@ -1,4 +1,4 @@
-# Preparing YOLO dataset without labeling. Use this dataset for annotating and create dataset for training YOLO.
+# extract traffic sign in video, prepare image for classification model
 
 import cv2
 import numpy as np
@@ -15,7 +15,7 @@ video = os.listdir(base_path)
 
 yolo = YOLO('weights/yolov8_trafficsign.pt')
 
-target_path = 'vnts_dataset/datasets/data_raw/img/vd1'
+target_path = 'vnts_dataset/datasets/data_raw/img/vd'
 
 for i, path in enumerate(video):
     cap = cv2.VideoCapture(base_path+'/'+path)

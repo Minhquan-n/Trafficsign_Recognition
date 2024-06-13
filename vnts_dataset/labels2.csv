@@ -1,0 +1,48 @@
+DP.135;Hết tất cả lệnh cấm
+EMPTY;Không có biển báo giao thông
+P.102;Cấm đi ngược chiều
+P.103a;Cấm ô tô
+P.103b;Cấm ô tô rẽ phải
+P.115;Hạn chế trọng lượng xe
+P.116;Hạn chế trọng lượng trên trục xe
+P.117;Hạn chế chiều cao
+P.121;Cự ly tối thiểu giữa hai xe
+P.122;Dừng lại
+P.123a;Cấm rẽ trái
+P.123b;Cấm rẽ phải
+P.124a;Cấm quay xe
+P.124b;Cấm ô tô quay đầu xe
+P.124c;Cấm rẽ trái và quay đầu xe
+P.124e;Cấm ô tô rẽ trái và quay đầu xe
+P.125;Cấm vượt
+P.127;Tốc độ tối đa cho phép
+P.130;Cấm dừng xe và đỗ xe
+P.131a;Cấm đỗ xe
+R.302a;Hướng phải đi vòng chướng ngại vật, vòng sang phải
+R.303;Nơi giao nhau chạy theo vòng xuyến
+R.420;Bắt đầu khu đông dân cư
+R.421;Hết khu đông dân cư
+W.201a;Chỗ ngoặc nguy hiểm bên trái
+W.201b;Chỗ ngoặc nguy hiểm bên phải
+W.202a;Nhiều chỗ ngoặc nguy hiểm liên tiếp chỗ ngoặc đầu tiên hướng vòng bên trái
+W.202b;Nhiều chỗ ngoặc nguy hiểm liên tiếp chỗ ngoặc đầu tiên hướng vòng bên phải
+W.203a;Đường bị hẹp về cả hai bên
+W.203c;Đường bị hẹp bên phải
+W.205a;Đường giao nhau cùng cấp, ngã tư
+W.205b;Đường giao nhau cùng cấp ngã ba bên phải
+W.205c;Đường giao nhau cùng cấp ngã ba bên trái
+W.205d;Đường giao nhau cùng cấp ngã ba cắt ngang
+W.207a;Giao nhau với đường không ưu tiên cắt ngang
+W.207b;Giao nhau với đường không ưu tiên ngang bên phải
+W.207c;Giao nhau với đường không ưu tiên ngang bên trái
+W.208;Giao nhau với đường ưu tiên
+W.209;Giao nhau có tín hiệu đèn
+W.221b;Đường có gồ giảm tốc
+W.224;Đường người đi bộ cắt ngang
+W.225;Trẻ em
+W.227;Công trường
+W.235;Đường đôi
+W.236;Hết đường đôi
+W.239;Đường cáp điện phía trên
+W.240;Đường hầm phía trước
+W.245a;Đi chậm
